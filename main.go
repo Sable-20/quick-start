@@ -1,9 +1,9 @@
-package main 
+package main
 
 import (
-  "github.com/sable-20/quick-start/cmd"
+	"github.com/sable-20/quick-start/cmd"
 )
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
